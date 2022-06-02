@@ -4,7 +4,7 @@
 
 ### 1. How many people were in the Titanic?
 
-To return the number of **people**, we just execute the length function to **count** of the rows. That means, **891** people survived according to the dataset.
+To return the number of **people**, we just execute the length function to **count** of the rows. That means, **891** people were in the ship according to the dataset.
 
 ### 2. How many male and female population survived?
 
